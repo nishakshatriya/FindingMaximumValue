@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8813045e-5703-4882-9b75-ec1ac9382eae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java" afterDir="false" />
     </list>
@@ -40,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+            <state relative-caret-position="60">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -49,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="73" column="78" selection-start-line="73" selection-start-column="78" selection-end-line="73" selection-end-column="78" />
+            <state relative-caret-position="1155">
+              <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,13 +136,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum">
-    <configuration name="FindingMaximumTest.WhenGivenFloatValues_IfSecondPosHasMax_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.FindingMaximumTest">
+    <configuration name="FindingMaximumTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenFloatValues_IfSecondPosHasMax_ShouldReturnMaximum&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -240,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.FindingMaximumTest" />
         <item itemvalue="Gradle.FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum" />
         <item itemvalue="Gradle.FindingMaximumTest.WhenGivenStringValues_IfSecondPosHasMax_ShouldReturnMaximum" />
         <item itemvalue="Gradle.FindingMaximumTest.WhenGivenStringValues_IfFirstPosHasMax_ShouldReturnMaximum" />
         <item itemvalue="Gradle.FindingMaximumTest.WhenGivenFloatValues_IfThirdPosHasMax_ShouldReturnMaximum" />
-        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenFloatValues_IfSecondPosHasMax_ShouldReturnMaximum" />
       </list>
     </recent_temporary>
   </component>
@@ -262,15 +261,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 21m 03s.xml">
-      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 21m 30s.xml">
-      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 21m 47s.xml">
-      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 25m 33s.xml">
       <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -292,9 +282,19 @@
     <history-entry file="FindingMaximumTest_WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum - 2020.01.02 at 17h 04m 25s.xml">
       <configuration name="FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="FindingMaximumTest - 2020.01.02 at 17h 12m 17s.xml">
+      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FindingMaximumTest - 2020.01.02 at 17h 12m 42s.xml">
+      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FindingMaximumTest - 2020.01.02 at 17h 12m 43s.xml">
+      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -305,12 +305,12 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3306189" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3306189" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32954547" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,15 +357,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="73" column="78" selection-start-line="73" selection-start-column="78" selection-end-line="73" selection-end-column="78" />
+        <state relative-caret-position="1155">
+          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
