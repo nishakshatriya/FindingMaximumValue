@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.Test.FindingMaximumTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-01-02T11:42:42" hostname="admin1-HP-EliteBook-Folio-9480m" time="0.007">
+<testsuite name="com.bridgelabz.Test.FindingMaximumTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-01-02T13:53:34" hostname="admin1-HP-EliteBook-Folio-9480m" time="0.01">
   <properties/>
-  <testcase name="WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.002"/>
-  <testcase name="WhenGivenStringValues_IfSecondPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.001"/>
+  <testcase name="WhenGivenGeneric_ShouldReturnMaxInt" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.001"/>
+  <testcase name="WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
+  <testcase name="WhenGivenStringValues_IfSecondPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
+  <testcase name="WhenGivenGeneric_ShouldReturnMaxString" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
   <testcase name="WhenGivenStringValues_IfFirstPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
   <testcase name="WhenGivenFloatValues_IfSecondPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
   <testcase name="WhenGivenIntValues_IfThirdPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
   <testcase name="WhenGivenIntValues_IfFirstPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
-  <testcase name="WhenGivenFloatValues_IfThirdPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
+  <testcase name="WhenGivenFloatValues_IfThirdPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.001"/>
   <testcase name="WhenGivenIntValues_IfSecondPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
   <testcase name="WhenGivenFloatValues_IfFirstPosHasMax_ShouldReturnMaximum" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.0"/>
+  <testcase name="WhenGivenGeneric_ShouldReturnMaxFloat" classname="com.bridgelabz.Test.FindingMaximumTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
