@@ -44,11 +44,35 @@ public class FindingMaximumTest {
         Float expectedResult = 50.5f;
         Assert.assertEquals(expectedResult, Float.valueOf(result));
     }
+
     @Test
     public void WhenGivenFloatValues_IfThirdPosHasMax_ShouldReturnMaximum() {
         FindingMaximum maximum = new FindingMaximum();
         Float result = (Float) maximum.printMaximumFloat(20.5f, 10.5f, 50.5f);
         Float expectedResult = 50.5f;
         Assert.assertEquals(expectedResult, Float.valueOf(result));
+    }
+
+    @Test
+    public void WhenGivenStringValues_IfFirstPosHasMax_ShouldReturnMaximum() {
+        FindingMaximum maximum = new FindingMaximum();
+        String result = (String) maximum.printMaximumString("Java", "C", ".Net");
+        String expectedResult = "Java";
+        Assert.assertEquals(expectedResult, String.valueOf(result));
+    }
+
+    @Test
+    public void WhenGivenStringValues_IfSecondPosHasMax_ShouldReturnMaximum() {
+        FindingMaximum maximum = new FindingMaximum();
+        String result = (String) maximum.printMaximumString("C", "Java", ".Net");
+        String expectedResult = "Java";
+        Assert.assertEquals(expectedResult, String.valueOf(result));
+    }
+    @Test
+    public void WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum() {
+        FindingMaximum maximum = new FindingMaximum();
+        String result = (String) maximum.printMaximumString("C", ".Net", "Java");
+        String expectedResult = "Java";
+        Assert.assertEquals(expectedResult, String.valueOf(result));
     }
 }

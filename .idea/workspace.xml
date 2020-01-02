@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8813045e-5703-4882-9b75-ec1ac9382eae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,13 +25,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="240">
+              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -38,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-181">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="209">
+              <caret line="73" column="78" selection-start-line="73" selection-start-column="78" selection-end-line="73" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,13 +137,93 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="FindingMaximumTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum">
+    <configuration name="FindingMaximumTest.WhenGivenFloatValues_IfSecondPosHasMax_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenFloatValues_IfSecondPosHasMax_ShouldReturnMaximum&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FindingMaximumTest.WhenGivenFloatValues_IfThirdPosHasMax_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenFloatValues_IfThirdPosHasMax_ShouldReturnMaximum&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FindingMaximumTest.WhenGivenStringValues_IfFirstPosHasMax_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenStringValues_IfFirstPosHasMax_ShouldReturnMaximum&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FindingMaximumTest.WhenGivenStringValues_IfSecondPosHasMax_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenStringValues_IfSecondPosHasMax_ShouldReturnMaximum&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -149,7 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FindingMaximumTest" />
+        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum" />
+        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenStringValues_IfSecondPosHasMax_ShouldReturnMaximum" />
+        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenStringValues_IfFirstPosHasMax_ShouldReturnMaximum" />
+        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenFloatValues_IfThirdPosHasMax_ShouldReturnMaximum" />
+        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenFloatValues_IfSecondPosHasMax_ShouldReturnMaximum" />
       </list>
     </recent_temporary>
   </component>
@@ -167,24 +262,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindingMaximumTest - 2020.01.02 at 15h 58m 05s.xml">
-      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FindingMaximumTest - 2020.01.02 at 15h 59m 44s.xml">
-      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 00m 05s.xml">
-      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 00m 20s.xml">
-      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 01m 39s.xml">
-      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 14m 51s.xml">
-      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 21m 03s.xml">
       <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -197,10 +274,27 @@
     <history-entry file="FindingMaximumTest - 2020.01.02 at 16h 25m 33s.xml">
       <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="FindingMaximumTest_WhenGivenFloatValues_IfFirstLocationHasMax_ShouldReturnMaximum - 2020.01.02 at 16h 47m 58s.xml">
+      <configuration name="FindingMaximumTest.WhenGivenFloatValues_IfFirstLocationHasMax_ShouldReturnMaximum" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FindingMaximumTest_WhenGivenFloatValues_IfSecondPosHasMax_ShouldReturnMaximum - 2020.01.02 at 16h 49m 25s.xml">
+      <configuration name="FindingMaximumTest.WhenGivenFloatValues_IfSecondPosHasMax_ShouldReturnMaximum" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FindingMaximumTest_WhenGivenFloatValues_IfThirdPosHasMax_ShouldReturnMaximum - 2020.01.02 at 16h 50m 09s.xml">
+      <configuration name="FindingMaximumTest.WhenGivenFloatValues_IfThirdPosHasMax_ShouldReturnMaximum" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FindingMaximumTest_WhenGivenStringValues_IfFirstPosHasMax_ShouldReturnMaximum - 2020.01.02 at 17h 02m 56s.xml">
+      <configuration name="FindingMaximumTest.WhenGivenStringValues_IfFirstPosHasMax_ShouldReturnMaximum" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FindingMaximumTest_WhenGivenStringValues_IfSecondPosHasMax_ShouldReturnMaximum - 2020.01.02 at 17h 03m 41s.xml">
+      <configuration name="FindingMaximumTest.WhenGivenStringValues_IfSecondPosHasMax_ShouldReturnMaximum" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FindingMaximumTest_WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum - 2020.01.02 at 17h 04m 25s.xml">
+      <configuration name="FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -216,7 +310,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32954547" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -263,15 +357,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="240">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-181">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="209">
+          <caret line="73" column="78" selection-start-line="73" selection-start-column="78" selection-end-line="73" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
