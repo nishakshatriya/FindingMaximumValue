@@ -1,14 +1,13 @@
 package com.bridgelabz.FindingMaximum;
 
-public class FindingMaximum <E extends Comparable>{
-    E value1;
-    E value2;
-    E value3;
+import java.lang.reflect.Array;
+import java.util.Arrays;
 
-    public FindingMaximum(E value1, E value2, E value3) {
-        this.value1 = value1;
-        this.value2 = value2;
-        this.value3 = value3;
+public class FindingMaximum <E extends Comparable>{
+    E ArrayOfElements[];
+
+    public FindingMaximum(E...Values) {
+        this.ArrayOfElements=Values;
     }
 
     public FindingMaximum() {
@@ -16,20 +15,18 @@ public class FindingMaximum <E extends Comparable>{
 
     }
 
-    public <E extends Comparable> E printMaximum(E value1, E value2, E value3) {
-         E maximum = (E) value1;
-        if (value2.compareTo(maximum) > 0) {
-            maximum = (E) value2;
-        }
-        if (value3.compareTo(maximum) > 0) {
-            maximum = (E) value3;
-        }
+    public <E extends Comparable> E printMaximum(E...parameters) {
+        E [] values= parameters;
+        int length = parameters.length;
+        Arrays.sort(parameters);
+        return (values[length-1]);
+
+    }
+
+    public E printMaximumValue() {
+        E maximum = printMaximum(ArrayOfElements);
         return maximum;
     }
 
-    public Object printMaximumValue() {
-        E maximum = printMaximum(value1, value2, value3);
-        return maximum;
-    }
 }
 

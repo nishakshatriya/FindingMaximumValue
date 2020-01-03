@@ -84,10 +84,25 @@ public class FindingMaximumTest {
         Object result = maximum.printMaximumValue();
         Assert.assertEquals(Float.valueOf(50.5f), result);
     }
+
     @Test
     public void WhenGivenGeneric_ShouldReturnMaxString() {
-        FindingMaximum maximum = new FindingMaximum("Java","C",".Net");
+        FindingMaximum maximum = new FindingMaximum("Java", "C", ".Net");
         Object result = maximum.printMaximumValue();
         Assert.assertEquals(String.valueOf("Java"), result);
+    }
+
+    @Test
+    public void WhenGivenMoreThanThreeStringValues_ShouldReturnMaxValues() {
+        FindingMaximum maximum = new FindingMaximum("Apple", "Banana", "Strawberry", "Mango");
+        Object result = maximum.printMaximumValue();
+        Assert.assertEquals(String.valueOf("Strawberry"), result);
+    }
+
+    @Test
+    public void WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues() {
+        FindingMaximum maximum = new FindingMaximum(12, 99, 34, 67, 55, 45, 23);
+        Object result = maximum.printMaximumValue();
+        Assert.assertEquals(Integer.valueOf(99), result);
     }
 }
