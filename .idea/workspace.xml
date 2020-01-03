@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8813045e-5703-4882-9b75-ec1ac9382eae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/FindingMaximum/FindingMaximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/FindingMaximum/FindingMaximum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/Test/FindingMaximumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/Test/FindingMaximumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.Test.FindingMaximumTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.Test.FindingMaximumTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -40,12 +61,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+            <state relative-caret-position="15">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#222#223#0" expanded="true" />
                 <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="105" column="35" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+            <state relative-caret-position="1125">
+              <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,13 +165,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.FindingMaximumTest.WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues">
+  <component name="RunManager" selected="Gradle.FindingMaximumTest">
     <configuration name="FindingMaximumTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxFloat" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxFloat&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -183,32 +226,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="FindingMaximumTest.WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxString" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="FindingMaximumTest.WhenGivenMoreThanThreeValues_ShouldReturnValues" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenMoreThanThreeValues_ShouldReturnValues&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.Test.FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxString&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -245,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues" />
-        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenMoreThanThreeValues_ShouldReturnValues" />
         <item itemvalue="Gradle.FindingMaximumTest" />
         <item itemvalue="Gradle.FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum" />
         <item itemvalue="Gradle.FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxInt" />
+        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxFloat" />
+        <item itemvalue="Gradle.FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxString" />
       </list>
     </recent_temporary>
   </component>
@@ -267,35 +290,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindingMaximumTest_WhenGivenIntValues_IfSecondPosHasMax_ShouldReturnMaximum - 2020.01.03 at 10h 09m 26s.xml">
-      <configuration name="FindingMaximumTest.WhenGivenIntValues_IfSecondPosHasMax_ShouldReturnMaximum" configurationId="GradleRunConfiguration" />
+    <history-entry file="FindingMaximumTest_WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues - 2020.01.03 at 10h 47m 54s.xml">
+      <configuration name="FindingMaximumTest.WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindingMaximumTest_WhenGivenGeneric_ShouldReturnMaxString - 2020.01.03 at 10h 16m 43s.xml">
+    <history-entry file="FindingMaximumTest_WhenGivenMoreThanThreeStringValues_ShouldReturnMaxValues - 2020.01.03 at 10h 47m 58s.xml">
+      <configuration name="FindingMaximumTest.WhenGivenMoreThanThreeStringValues_ShouldReturnMaxValues" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="FindingMaximumTest_WhenGivenGeneric_ShouldReturnMaxString - 2020.01.03 at 10h 48m 04s.xml">
       <configuration name="FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxString" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindingMaximumTest_WhenGivenGeneric_ShouldReturnMaxFloat - 2020.01.03 at 10h 17m 24s.xml">
+    <history-entry file="FindingMaximumTest_WhenGivenGeneric_ShouldReturnMaxFloat - 2020.01.03 at 10h 48m 10s.xml">
       <configuration name="FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxFloat" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindingMaximumTest_WhenGivenGeneric_ShouldReturnMaxInt - 2020.01.03 at 10h 18m 18s.xml">
+    <history-entry file="FindingMaximumTest_WhenGivenGeneric_ShouldReturnMaxInt - 2020.01.03 at 10h 48m 16s.xml">
       <configuration name="FindingMaximumTest.WhenGivenGeneric_ShouldReturnMaxInt" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindingMaximumTest_WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum - 2020.01.03 at 10h 19m 40s.xml">
+    <history-entry file="FindingMaximumTest_WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum - 2020.01.03 at 10h 48m 24s.xml">
       <configuration name="FindingMaximumTest.WhenGivenStringValues_IfThirdPosHasMax_ShouldReturnMaximum" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindingMaximumTest - 2020.01.03 at 10h 20m 05s.xml">
+    <history-entry file="FindingMaximumTest - 2020.01.03 at 10h 50m 03s.xml">
       <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindingMaximumTest_WhenGivenMoreThanThreeValues_ShouldReturnValues - 2020.01.03 at 10h 31m 10s.xml">
-      <configuration name="FindingMaximumTest.WhenGivenMoreThanThreeValues_ShouldReturnValues" configurationId="GradleRunConfiguration" />
+    <history-entry file="FindingMaximumTest - 2020.01.03 at 10h 53m 27s.xml">
+      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindingMaximumTest_WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues - 2020.01.03 at 10h 33m 09s.xml">
-      <configuration name="FindingMaximumTest.WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues" configurationId="GradleRunConfiguration" />
+    <history-entry file="FindingMaximumTest - 2020.01.03 at 10h 56m 43s.xml">
+      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindingMaximumTest_WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues - 2020.01.03 at 10h 33m 34s.xml">
-      <configuration name="FindingMaximumTest.WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="FindingMaximumTest_WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues - 2020.01.03 at 10h 34m 17s.xml">
-      <configuration name="FindingMaximumTest.WhenGivenMoreThanThreeIntValues_ShouldReturnMaxValues" configurationId="GradleRunConfiguration" />
+    <history-entry file="FindingMaximumTest - 2020.01.03 at 10h 59m 34s.xml">
+      <configuration name="FindingMaximumTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -318,7 +341,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -339,8 +362,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bridgelabz/TestingMaximum/TestingMaximum.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/bridgelabz/Test/FindingMaximumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="105" column="35" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+        <state relative-caret-position="1125">
+          <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -349,12 +372,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bridgelabz/FindingMaximum/FindingMaximum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        <state relative-caret-position="15">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#222#223#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
           </folding>
         </state>
       </provider>

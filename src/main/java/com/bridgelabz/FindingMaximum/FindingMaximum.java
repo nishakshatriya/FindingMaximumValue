@@ -1,6 +1,4 @@
 package com.bridgelabz.FindingMaximum;
-
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class FindingMaximum <E extends Comparable>{
@@ -12,20 +10,25 @@ public class FindingMaximum <E extends Comparable>{
 
     public FindingMaximum() {
 
-
     }
 
-    public <E extends Comparable> E printMaximum(E...parameters) {
+    public <E extends Comparable> E CheckMaximumValue(E...parameters) {
         E [] values= parameters;
         int length = parameters.length;
-        Arrays.sort(parameters);
-        return (values[length-1]);
+        Arrays.sort(values);
+        E max=values[length-1];
+        printMax(max);
+        return max;
 
     }
 
-    public E printMaximumValue() {
-        E maximum = printMaximum(ArrayOfElements);
+    public Object GettingMaximumValue() {
+        E maximum = CheckMaximumValue(ArrayOfElements);
         return maximum;
+    }
+
+    public <E extends Comparable> void printMax(E maximum) {
+        System.out.println("Maximum value is : "+maximum);
     }
 
 }
